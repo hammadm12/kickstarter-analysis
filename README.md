@@ -15,4 +15,4 @@ The number of failed campaigns stayed relatively close to each other in terms of
 ### Outcomes Based on Goals
 ![](resources/Outcomes_vs_Goals.png)
 
-An immediate observation based on this chart labeled "Outcomes Based on Goals," is that there were virtually no play cancelations. As we can see according to the legend, the line labeled
+An immediate observation based on this chart labeled "Outcomes Based on Goals," is that there were virtually no play cancelations. As we can see according to the legend, the line labeled "perecentage canceled" shows a relatively flat line throughout. Based off of this observation, we can assume the filtered data in this particular dataset met their crowdfunding goals. In terms of the "percentage successful" vs "percentage failed," we can observe that campaigns with goals under $15,000 saw the most successful outcomes and the lowest percantage of failed campaigns but inversely, goals above $45,000 saw the least amount of success and saw the greatest amoung of failed campaigns.
