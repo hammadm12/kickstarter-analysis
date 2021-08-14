@@ -8,4 +8,5 @@ There are quite a few, effective ways to analyze a dataset especially one with a
 ### Theater Outcomes Based on Launch Date
 ![](resources/Theater_Outcomes_vs_Launch.png)
 
+Based on the chart labeled "Theater Outcomes Based on Launch data, we filter the dataset by the number of successful, failed and canceled outcomes. According to the chart, we can see the highest number of successful outcomes peaked in the month of May
 ![](resources/Outcomes_vs_Goals.png)
