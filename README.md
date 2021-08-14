@@ -15,4 +15,4 @@ The number of failed campaigns stayed relatively close to each other in terms of
 ### Outcomes Based on Goals
 ![](resources/Outcomes_vs_Goals.png)
 
-An immediate observation based on this
+An immediate observation based on this chart labeled "Outcomes Based on Goals," is that there were virtually no play cancelations. As we can see according to the legend, the line labeled
