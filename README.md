@@ -19,4 +19,6 @@ An immediate observation based on this chart labeled "Outcomes Based on Goals," 
 
 ### Challenges of the Dataset
 
-A particular challenge of this dataset is that besides offering a statistical analysis of outcomes, it offers no other real reasons why some campaigns failed. Some kickstarter campaigns offer incentives at certain goal stretches which could entice people to give more funding to the campaign in order to obtain said incentives. There is no way of knowing how much advertising was done outside the campaign in order to obtain funding
+A particular challenge of this dataset is that besides offering a statistical analysis of outcomes, it offers no other real reasons why some campaigns failed. Some kickstarter campaigns offer incentives at certain goal stretches which could entice people to give more funding to the campaign in order to obtain said incentives. There is no way of knowing how much advertising was done outside the campaign in order to obtain funding which could also factor into a campaigns outcome. There are unknown variables outside the dataset that could have had some impact on a campaigns outcome.
+
+## Results
