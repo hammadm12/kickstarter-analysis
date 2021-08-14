@@ -12,4 +12,7 @@ Based on the chart labeled "Theater Outcomes Based on Launch data, we filter the
 
 The number of failed campaigns stayed relatively close to each other in terms of number per month. This could be that not all theater campaigns cater to everyones specifc tastes. It is difficult to gauge every individual's personal tastes or it could be other factors that led to failed outcomes such as not meeting its goal within its crowdfunding period/ The number of canceled outcomes stayed below 10% throughout the calendar year, the highest being in the month of January. Some possible reasons for cancelations could be the project never fully developed beyond its crowdfunding initiative but there is no real way to determine the cause.
 
+### Outcomes Based on Goals
 ![](resources/Outcomes_vs_Goals.png)
+
+An immediate observation based on this
