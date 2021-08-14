@@ -20,5 +20,13 @@ An immediate observation based on this chart labeled "Outcomes Based on Goals," 
 ### Challenges of the Dataset
 
 A particular challenge of this dataset is that besides offering a statistical analysis of outcomes, it offers no other real reasons why some campaigns failed. Some kickstarter campaigns offer incentives at certain goal stretches which could entice people to give more funding to the campaign in order to obtain said incentives. There is no way of knowing how much advertising was done outside the campaign in order to obtain funding which could also factor into a campaigns outcome. There are unknown variables outside the dataset that could have had some impact on a campaigns outcome.
-
 ## Results
+What are two conclusions you can draw about the Theater Outcomes by Launch Date?
+One observable conclusion we can make about the "Theater Outcomes by Launch Date" is that the month of May saw the highest number of successful outcomes. This is also noticeable in the line graph as we see the peak clearly visible in the month of May. Another observable conclusion is that the percentage of canceled outcomes stayed below 10% throughout the calendar year thus informing us that a very low percantage of campaigns were outright canceled.
+
+What can you conclude about the Outcomes based on Goals?
+Based off of the chart generated, we can conclude that the greater the crowdfunding goal of a campaign, the greater the chance of it failing or not reaching its goal within the crowdfunding period. The more attainable the goal is, the greater the chance of it being successful.
+
+What are some limitations of this dataset?
+
+One limitation of the dataset is that it only concerns itself with whether or not a Kickstarter campaign failed, was successful or canceled. It does not consider other variables that could have affected a campaign such as lack of advertisement contributing to an outcome of a campaign. Another could be factoring the backgrounds of the people supporting these campigns in order to gauge which group of people from a certain background contribute more or a less 
