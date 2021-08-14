@@ -5,4 +5,4 @@ Crowdfunding can be an alternative and somewhat more popular way of getting proj
 ## Analysis and Challenges
 There are quite a few, effective ways to analyze a dataset especially one with as many filters as this Kickstarter data sets. Through the use of tools such as creating PivotCharts, line and box-and-whisker charts, we can develop logistical conclusions in determining how certain filters positively or negatively affect each other.
 
-![Outcomes_vs_Goals](path/to/Outcomes_vs_Goals.png)
+![](resources/Outcomes_vs_Goals.png)
